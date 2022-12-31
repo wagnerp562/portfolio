@@ -36,6 +36,6 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/img/icons/calendar.svg');
+    background-image: url('https://raw.githubusercontent.com/wagnerp562/portfolio/f3128801dbd4668c5bcc1e30c81e761e07ccc7b9/assets/img/icons/calendar.svg');
     margin-right: .5rem;
 }
