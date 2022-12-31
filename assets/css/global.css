@@ -35,7 +35,7 @@ a:hover {
 .main::before,
 .main::after {
     content: '';
-    background-image: url('./assets/img/background.svg');
+    background-image: url('https://raw.githubusercontent.com/wagnerp562/portfolio/14b9236dd4c3c679158da9e38bb41209e31a9eda/assets/img/background.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
